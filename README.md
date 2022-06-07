@@ -67,4 +67,4 @@
 
 ### :writing_hand: Blog Posts :
 - :<a href="https://ryanfab.netlify.app/">Blog</a><br>
-- :<a href="https://250.netlify.app/">Portfolio</a>
+- :<a href="https://250fab.netlify.app/">Portfolio</a>
