@@ -66,5 +66,5 @@
 ---
 
 ### :writing_hand: Blog Posts :
-<a href="https://ryanfab.netlify.app/">Blog</a>
+<a href="https://ryanfab.netlify.app/">Blog</a><br>
 <a href="https://250.netlify.app/">Portfolio</a>
