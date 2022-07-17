@@ -64,6 +64,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fab-ryan&show_icons=true&theme=radical)
 
 ---
+### github trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=fab-ryan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### :writing_hand: Blog Posts :
 - :<a href="https://ryanfab.netlify.app/">Blog</a><br>
