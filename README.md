@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Fabrice
-💻 Frontend Developer (React & Next.js) | 📱 React Native Developer | ⚙️ Full Stack Engineer | 🌍 Based in Rwanda <br><br> 
+Full Stack Engineer building modern, scalable web & mobile applications. Experienced with React, Next.js, Node.js, NestJS, Springboot, TypeScript,Java, Database & DevOps. 🚀🇷🇼 <br/> <br/>
 ## 🧑‍💻 About Me<br><br> 
 🎨 Passionate about building **beautiful, responsive, and scalable user interfaces**<br> ⚛️ Strong experience in **React.js, Next.js, Angular Js, Vue and TypeScript**<br> 📱 Mobile app developer using **React Native (Expo) and Flutter**<br> 🔧 Backend development with **NestJS, Node.js, Springboot and Laravel**<br> 🗄️ Skilled in **PostgreSQL, MySQL, and system architecture**<br> ☁️ Deploying apps on **AWS, DigitalOcean, and Linux servers**<br> 🤖 Exploring **AI integrations and smart systems**
 
